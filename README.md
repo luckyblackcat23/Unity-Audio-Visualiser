@@ -4,6 +4,7 @@ audio visualiser for unity
 make sure to make an audio source and place the audio visualization script on it.
 
 set-up for ring
+
 1: create an empty game object.
 
 2: place the instantiate 512 cubes script onto it.
