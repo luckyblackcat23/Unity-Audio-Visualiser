@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Audio;
-public class AudioVisualitionTest : MonoBehaviour
+public class AudioVisualisationTest : MonoBehaviour
 {
     public AudioSource Music;
     public static float[] samples = new float[512];
